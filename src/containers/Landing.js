@@ -51,6 +51,7 @@ export default class HomepageLayout extends PureComponent {
           once={false}
         >
           <Segment
+            className="waddup"
             inverted
             textAlign='center'
             style={{ minHeight: 700, padding: '1em 0em' }}
